@@ -1,0 +1,6 @@
+.venv
+__pycache__
+dataset_intent_vi.csv
+dataset_intent_vi_full.csv
+.idea
+weights/

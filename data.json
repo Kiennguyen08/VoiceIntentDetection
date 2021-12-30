@@ -1,0 +1,37 @@
+{
+  "Nam": {
+    "so_du_tai_khoan": "10 triệu đồng",
+    "mo_nhac": "Đang mở bài hát yêu thích của Nam",
+    "lich_lam_viec": "Lịch làm việc hôm nay của bạn trống",
+    "dat_nha_hang": "Tôi sẽ đặt nhà hàng Trung Quốc yêu thích của bạn",
+    "dat_bao_thuc": "Tôi sẽ đặt báo thức lúc 8 giờ cho bạn"
+  },
+    "Nghia": {
+    "so_du_tai_khoan": "20 triệu đồng",
+    "mo_nhac": "Đang mở bài hát yêu thích của Nghĩa",
+    "lich_lam_viec": "Lịch làm việc hôm nay của bạn từ 8 giờ đến 5 giờ chiều",
+    "dat_nha_hang": "Tôi sẽ đặt nhà hàng Hàn Quốc yêu thích của bạn",
+    "dat_bao_thuc": "Tôi sẽ đặt báo thức lúc 7 giờ  30 cho bạn"
+  },
+    "Chi": {
+    "so_du_tai_khoan": "100 triệu đồng",
+    "mo_nhac": "Đang mở bài hát yêu thích của Chi",
+    "lich_lam_viec": "Lịch làm việc hôm nay của bạn từ 9 giờ đến 12 giờ",
+    "dat_nha_hang": "Tôi sẽ đặt nhà hàng Trung Quốc yêu thích của bạn",
+    "dat_bao_thuc": "Tôi sẽ đặt báo thức lúc 8 giờ 30 cho bạn"
+  },
+    "Kien": {
+    "so_du_tai_khoan": "50 triệu đồng",
+    "mo_nhac": "Đang mở bài hát yêu thích của Kiên",
+    "lich_lam_viec": "Lịch làm việc hôm nay của bạn từ 3 giờ chiều đến 6 giờ",
+    "dat_nha_hang": "Tôi sẽ đặt nhà hàng Việt Nam yêu thích của bạn",
+    "dat_bao_thuc": "Tôi sẽ đặt báo thức lúc 6 giờ cho bạn"
+  },
+    "Thang": {
+    "so_du_tai_khoan": "10 triệu đồng",
+    "mo_nhac": "Đang mở bài hát yêu thích của Thắng",
+    "lich_lam_viec": "Lịch làm việc hôm nay của bạn từ 10 giờ đến 2 giờ",
+    "dat_nha_hang": "Tôi sẽ đặt nhà hàng Nhật Bản yêu thích của bạn",
+    "dat_bao_thuc": "Tôi sẽ đặt báo thức lúc 8 giờ cho bạn"
+  }
+}

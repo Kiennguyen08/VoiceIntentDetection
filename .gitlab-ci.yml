@@ -1,0 +1,20 @@
+before_script:
+    - apt update -qy
+    - apt install -y python3-dev python3-pip
+    - pip3 install -r requirements.txt
+
+stages:
+    - production
+
+production:
+    type: deploy
+    stage: production
+    script:
+        - apt update -qy
+        - apt install -y ruby-dev
+        - gem install dpl
+        # - git remote add heroku https://heroku:$HEROKU_API_KEY@git.heroku.com/voice-detection.git
+        # - git push -f heroku master
+        - dpl --provider=heroku --app=$HEROKU_APP_DEV --api_key=$HEROKU_API_KEY
+    only:
+        - master
